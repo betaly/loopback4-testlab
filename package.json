@@ -1,6 +1,6 @@
 {
   "name": "loopback4-testlab",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An advanced collection of test utilities for LoopBack tests",
   "keywords": [],
   "author": "TY <towyuan@outlook.com>",
